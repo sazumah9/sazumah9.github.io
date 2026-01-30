@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.S. in Computer Engineering**, Virginia Polytechnic Institute & State University Expected Graduation: May 2027 | GPA: 3.3 Honors: Dean’s Honor List (Fall ’23, Spring ’24) Relevant Coursework: Fundamentals of Digital Systems, Circuits and Devices, Embedded Systems, Signals and Systems, Physical Electronics
 
-Work experience
+Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Home Audio System** | Fall 2025 (Aug 2025 – Present)  
+  * Designing a 3-band graphic equalizer with potentiometer-controlled gain adjustment  
+  * Developing a Class-D amplifier using Arduino PWM, transistor switching, and RLC filtering  
+  * Programming an OLED display with a welcome screen and real-time 3-band spectrogram  
+  * Conducting LTspice simulations and breadboard prototyping
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Banking System Simulation (C++)** | April–May 2025  
+  * Built a modular system with 5+ classes to manage users, accounts, and transactions  
+  * Implemented secure authentication and input validation  
+  * Logged transactions using file I/O and blocked unauthorized access
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Work & Leadership experience
+======
+* **Research & Development Head**, Akosombo Robotics | Accra, Ghana (May 2021 – April 2022)  
+  * Led an 8-member team to develop a Zapplight-equipped miniature car  
+  * Reduced mosquito population by 80% in Akosombo  
+  * Placed 3rd at the National Invention Fair (NIF)
+
+* **Student Leader**, Virginia Tech | Aug 2024 – Present  
+  * Facilitate student development activities  
+  * Mentor 100+ first-year students  
+  * Lead cybersecurity awareness programming
   
+
+Certifications & Training
+======
+* **Cybersecurity Certification**, CodePath | Sept 2025 – Present  
+* **Python Developer Certification**, Udemy | Dec 2023 – Jan 2024  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** Python, C++, C, Assembly  
+* **Tools:** SolidWorks, VS Code, LTspice, WaveForms, Quartus  
+* **Languages:** English, French, Twi, Pidgin English  
 
-Publications
+Service & Organizations
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* National Society of Black Engineers (NSBE) — Member  
+* ColorStack — Member
