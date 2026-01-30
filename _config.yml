@@ -23,7 +23,7 @@ repository               : "sazumah9/sazumah9.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_p.png"
   name             : "Stephen Simon Azumah"
   pronouns         : # example: "He/Him"  
   bio              : "I am a Junior studying Computer Engineering with a focus in Networking & Cybersecurity. I am Ghanaian"
